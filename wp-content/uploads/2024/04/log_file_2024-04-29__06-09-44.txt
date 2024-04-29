@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Demo 3 - Showcase Interactive were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://kuoptimasi.tech
+Data file = /home/kuoptimasi/htdocs/kuoptimasi.tech/wp-content/uploads/2024/04/demo-content-import-file_2024-04-29__06-09-44.xml
+Widget file = /home/kuoptimasi/htdocs/kuoptimasi.tech/wp-content/uploads/2024/04/demo-widgets-import-file_2024-04-29__06-09-44.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Pages : 
+
+Custom HTML - No Title - Widget already exists
+Custom HTML - Barcelona - Widget already exists
+Custom HTML - Rotterdam - Widget already exists
+
+Footer column 1 : 
+
+Ohio: Logo - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Footer column 2 : 
+
+Custom HTML - Rotterdam - Widget already exists
+Custom HTML - Barcelona - Widget already exists
+
+Footer column 3 : 
+
+Custom HTML - Work inquiries - Widget already exists
+Custom HTML - Career - Widget already exists
+
+Footer column 4 : 
+
+Ohio: Subscribe Form - Sign up for the newsletter - Widget already exists
+
+Shop : 
+
+Categories - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
